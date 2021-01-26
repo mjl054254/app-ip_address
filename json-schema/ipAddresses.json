@@ -3,7 +3,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "IP Addresses",
   "description": "IP Address parameters and returned data.",
-  "definitions": {
+ "definitions": {
     "ipv4CIDR": {
       "type": "string",
       "description": "An IPv4 subnet expressed in CIDR notation.",
